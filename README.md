@@ -1,16 +1,7 @@
-# EP_13_Trend_and_Season
+# EP_13_Trend_and_Seasonality_Analysis
 
-
-# Trend and Seasonality Analysis
 
 This repository contains an explorative analysis of a time series dataset, focusing on trend and seasonality patterns. Various visualization techniques, including line plots, box plots, heatmaps, seasonal plots, and seasonal decomposition plots, are used to dissect and understand the data.
-
-## Table of Contents
-
-- [Description](#description)
-- [Visualizations](#visualizations)
-- [Usage](#usage)
-- [License](#license)
 
 ## Description
 
@@ -26,8 +17,4 @@ The dataset contains SKU values over a period of time. The primary objective of 
 
 ## Usage
 
-To dive into the Python code and understand the methodologies and libraries used in this analysis, refer to [this Jupyter notebook](https://github.com/NattapongTH/EP_13_Trend_and_Seasonality./blob/main/EP13_GitHub.ipynb).
-
-## License
-
-MIT License. See `LICENSE` for more information.
+To dive into the Python code and understand the methodologies and libraries used in this analysis, refer to [EP_13_Trend_and_Seasonality](https://github.com/NattapongTH/EP_13_Trend_and_Seasonality./blob/main/EP13_GitHub.ipynb).
