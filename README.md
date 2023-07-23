@@ -7,6 +7,10 @@ This repository contains an explorative analysis of a time series dataset, focus
 
 The dataset contains SKU values over a period of time. The primary objective of this analysis is to visually represent and understand the underlying trends, seasonality, and other patterns within the data.
 
+## Usage
+
+To dive into the Python code and understand the methodologies and libraries used in this analysis, refer to [EP_13_Trend_and_Seasonality](https://github.com/NattapongTH/EP_13_Trend_and_Seasonality./blob/main/EP13_GitHub.ipynb).
+
 ## Visualizations
 
 1. **Line Plot**: Represents the time series progression of SKU values. 
@@ -15,6 +19,3 @@ The dataset contains SKU values over a period of time. The primary objective of 
 4. **Seasonal Plot**: A tool to observe and compare recurring trends across different periods, showcasing the underlying seasonality in the dataset.
 5. **Seasonal Decomposition Plot**: Decomposes the time series into its fundamental components - trend, seasonal, and residual - to give a clearer understanding of the patterns, trends, and deviations in the data.
 
-## Usage
-
-To dive into the Python code and understand the methodologies and libraries used in this analysis, refer to [EP_13_Trend_and_Seasonality](https://github.com/NattapongTH/EP_13_Trend_and_Seasonality./blob/main/EP13_GitHub.ipynb).
